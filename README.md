@@ -91,3 +91,29 @@ If you're looking to dive deeper into computer graphics, these books are great r
 * [Ray Tracey's blog](http://raytracey.blogspot.com/)
 
   Sam Lapere shares numerous posts about real-time rendering on his blog. It's an excellent resource for those looking to stay informed about the latest advancements in real-time rendering techniques.
+  
+## Awesome lists
+
+### API
+
+* [Awesome Vulcan](https://github.com/lbke/awesome-vulcan)
+
+* [Awesome Metal](https://github.com/adamnemecek/awesome-metal)
+
+* [Awesome WebGL](https://github.com/sjfricke/awesome-webgl)
+
+* [Awesome WebGPU](https://github.com/mikbry/awesome-webgpu)
+
+* [Awesome Mobile Graphics](https://github.com/shihchinw/awesome-mobile-graphics)
+
+### Games/Engine/Plugins for engines
+
+* [Awesome Unity](https://github.com/baba-s/awesome-unity-open-source-on-github)
+
+* [Awesome Unreal](https://github.com/insthync/awesome-unreal)
+
+* [Awesome Godot](https://github.com/godotengine/awesome-godot)
+ 
+* [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games)
+
+* [Games](https://github.com/Yaksinikos/games)
