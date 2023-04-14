@@ -26,7 +26,7 @@ If you're looking to dive deeper into computer graphics, these books are great r
 
 ## Sites
 
-* [http://immersivemath.com/ila/](Immersive Math by J. Ström, K. Åström, and T. Akenine-Möller)
+* [Immersive Math by J. Ström, K. Åström, and T. Akenine-Möller](http://immersivemath.com/ila/)
 
   It is a groundbreaking online book featuring fully interactive figures, designed to make learning math more engaging and intuitive. Also, the site provides a unique and innovative approach to mastering linear algebra, making it an invaluable resource for students, educators, and professionals looking to deepen their understanding of this fundamental mathematical discipline.
 
