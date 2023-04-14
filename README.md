@@ -26,6 +26,10 @@ If you're looking to dive deeper into computer graphics, these books are great r
 
 ## Sites
 
+* [http://immersivemath.com/ila/](Immersive Math by J. Ström, K. Åström, and T. Akenine-Möller)
+
+  It is a groundbreaking online book featuring fully interactive figures, designed to make learning math more engaging and intuitive. Also, the site provides a unique and innovative approach to mastering linear algebra, making it an invaluable resource for students, educators, and professionals looking to deepen their understanding of this fundamental mathematical discipline.
+
 * [The Book of Shaders by Patricio Gonzalez and Jen Lowe](https://thebookofshaders.com/)
 
   Patricio Gonzalez and Jen Lowe's site is focused on the practical teaching of GLSL fragment shaders. It's filled with editable code examples that demonstrate how shaders work, making it an excellent resource for those looking to get hands-on experience with shader programming.
@@ -58,10 +62,6 @@ If you're looking to dive deeper into computer graphics, these books are great r
 
   Morgan McGuire's site is a great resource for those interested in learning about real-time rendering techniques. It provides a wealth of information on various rendering techniques, making it an excellent resource for both beginners and experienced developers looking to improve their skills.
 
-* [Inigo Quilez's site](https://iquilezles.org/)
-
-  This site features articles and shader demos from the co-creator of ShaderToy, Inigo Quilez. It's a valuable resource for learning about shaders and experimenting with various techniques.
-
 * [Shader Toy](https://www.shadertoy.com/)
 
   A website that allows users to create, visualize, and share GLSL shaders. It's an excellent platform for experimenting with shaders and learning about their various capabilities.
@@ -71,6 +71,14 @@ If you're looking to dive deeper into computer graphics, these books are great r
 * [Jendrik Illner's blog](https://www.jendrikillner.com/tags/weekly/)
 
   Jendrik Illner, a 3D programmer at Ubisoft, shares weekly summaries of articles about 3D graphics, including shader tutorials, real-time rendering papers, and more. This blog is a valuable resource for keeping up-to-date with the latest developments in the field.
+
+* [Alan Wolfe's blog](https://blog.demofox.org/)
+
+  Alan Wolfe's blog is a comprehensive resource covering a wide range of topics related to math, programming, computer graphics, and more. With posts grouped into various categories, the blog offers insights into original research, inventions, programming techniques, game development, machine learning, and other technical subjects.
+
+* [Inigo Quilez's site](https://iquilezles.org/)
+
+  This site features articles and shader demos from the co-creator of ShaderToy, Inigo Quilez. It's a valuable resource for learning about shaders and experimenting with various techniques.
 
 * [Ray Tracey's blog](http://raytracey.blogspot.com/)
 
