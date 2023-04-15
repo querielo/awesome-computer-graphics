@@ -26,63 +26,43 @@ If you're looking to dive deeper into computer graphics, these books are great r
 
 ## Sites
 
-* [Immersive Math by J. Ström, K. Åström, and T. Akenine-Möller](http://immersivemath.com/ila/)
+* [Immersive Math by J. Ström, K. Åström, and T. Akenine-Möller](http://immersivemath.com/ila/). It is a groundbreaking online book featuring fully interactive figures, designed to make learning math more engaging and intuitive. Also, the site provides a unique and innovative approach to mastering linear algebra, making it an invaluable resource for students, educators, and professionals looking to deepen their understanding of this fundamental mathematical discipline.
 
-  It is a groundbreaking online book featuring fully interactive figures, designed to make learning math more engaging and intuitive. Also, the site provides a unique and innovative approach to mastering linear algebra, making it an invaluable resource for students, educators, and professionals looking to deepen their understanding of this fundamental mathematical discipline.
+* [The Book of Shaders by Patricio Gonzalez and Jen Lowe](https://thebookofshaders.com/). Patricio Gonzalez and Jen Lowe's site is focused on the practical teaching of GLSL fragment shaders. It's filled with editable code examples that demonstrate how shaders work, making it an excellent resource for those looking to get hands-on experience with shader programming.
 
-* [The Book of Shaders by Patricio Gonzalez and Jen Lowe](https://thebookofshaders.com/)
+* [ScratchAPixel](https://www.scratchapixel.com/). Teaches image rendering from basic to advanced. It offers a wealth of information on various rendering techniques, making it an excellent resource for both beginners and experienced developers looking to improve their skills.
 
-  Patricio Gonzalez and Jen Lowe's site is focused on the practical teaching of GLSL fragment shaders. It's filled with editable code examples that demonstrate how shaders work, making it an excellent resource for those looking to get hands-on experience with shader programming.
+* [Learn OpenGL](https://learnopengl.com/). A comprehensive resource site that contains tutorials by topic, code examples, and even a PDF version of its contents. It's a great place to start for anyone looking to learn OpenGL 3.3 or higher, as it provides easy-to-follow instructions and practical examples.
 
-* [ScratchAPixel](https://www.scratchapixel.com/)
+* [WebGL Fundamentals](https://webglfundamentals.org/). This resource provides a thorough understanding of WebGL and its underlying principles, ensuring that you grasp the latest techniques and approaches such as 3D rendering, lighting, 2D transformations, 3D perspectives, camera operations, shaders and GLSL, image processing, geometry, textures, and much more. It also provides insights into [WebGL2](webgl2fundamentals.org).
 
-  Teaches image rendering from basic to advanced. It offers a wealth of information on various rendering techniques, making it an excellent resource for both beginners and experienced developers looking to improve their skills.
+* [OpenGL tutorial](http://www.opengl-tutorial.org/). This tutorial site is dedicated to helping users learn OpenGL 3.3 or higher. It covers a wide range of topics and provides useful resources to help users get started with and master OpenGL.
 
-* [Learn OpenGL](https://learnopengl.com/)
+* [Learn Vulkan](https://vulkan-tutorial.com/). Tutorial for learning Vulkan API. It provides a step-by-step guide to help users understand and utilize the powerful features of Vulkan in their projects.
 
-  A comprehensive resource site that contains tutorials by topic, code examples, and even a PDF version of its contents. It's a great place to start for anyone looking to learn OpenGL 3.3 or higher, as it provides easy-to-follow instructions and practical examples.
+* [Real-Time Rendering recommended books](https://www.realtimerendering.com/books.html). A list of recommended books on the Real-Time Rendering website. This list provides a valuable starting point for anyone looking to expand their knowledge of computer graphics and real-time rendering techniques.
 
-* [WebGL Fundamentals](https://webglfundamentals.org/)
+* [Casual effects by Morgan McGuire](https://casual-effects.com/). Morgan McGuire's site is a great resource for those interested in learning about real-time rendering techniques. It provides a wealth of information on various rendering techniques, making it an excellent resource for both beginners and experienced developers looking to improve their skills.
+  
+### Shader editors
 
-  This resource provides a thorough understanding of WebGL and its underlying principles, ensuring that you grasp the latest techniques and approaches such as 3D rendering, lighting, 2D transformations, 3D perspectives, camera operations, shaders and GLSL, image processing, geometry, textures, and much more. It also provides insights into [WebGL2](webgl2fundamentals.org).
+* [ShaderToy](https://www.shadertoy.com) is a popular online platform for creating, sharing, and exploring GLSL shaders. It provides a rich set of features, including live coding, real-time previews, and a vast library of user-contributed shaders.
 
-* [OpenGL tutorial](http://www.opengl-tutorial.org/)
+* [ShaderFrog](https://shaderfrog.com) is an online shader editor and asset manager that allows users to create, edit, and export shaders for use in Three.js, Unity, and other game engines. It supports visual shader editing and also offers a text-based editor for advanced users.
 
-  This tutorial site is dedicated to helping users learn OpenGL 3.3 or higher. It covers a wide range of topics and provides useful resources to help users get started with and master OpenGL.
+* [GLSL Sandbox](http://glslsandbox.com) is a shader editor that allows users to write shaders using the GLSL language. It provides real-time previews, editable shader code, and a gallery.
 
-* [Learn Vulkan](https://vulkan-tutorial.com/)
-
-  Tutorial for learning Vulkan API. It provides a step-by-step guide to help users understand and utilize the powerful features of Vulkan in their projects.
-
-* [Real-Time Rendering recommended books](https://www.realtimerendering.com/books.html)
-
-  A list of recommended books on the Real-Time Rendering website. This list provides a valuable starting point for anyone looking to expand their knowledge of computer graphics and real-time rendering techniques.
-
-* [Casual effects by Morgan McGuire](https://casual-effects.com/)
-
-  Morgan McGuire's site is a great resource for those interested in learning about real-time rendering techniques. It provides a wealth of information on various rendering techniques, making it an excellent resource for both beginners and experienced developers looking to improve their skills.
-
-* [Shader Toy](https://www.shadertoy.com/)
-
-  A website that allows users to create, visualize, and share GLSL shaders. It's an excellent platform for experimenting with shaders and learning about their various capabilities.
+* [The Interactive Shader Format (ISF) Editor](https://editor.isf.video/) is an online tool for creating and editing GLSL shaders in the ISF format, which is commonly used in VJ software, live performance applications, and interactive installations.
 
 ### Blogs
 
-* [Jendrik Illner's blog](https://www.jendrikillner.com/tags/weekly/)
+* [Jendrik Illner's blog](https://www.jendrikillner.com/tags/weekly/). Jendrik Illner, a 3D programmer at Ubisoft, shares weekly summaries of articles about 3D graphics, including shader tutorials, real-time rendering papers, and more. This blog is a valuable resource for keeping up-to-date with the latest developments in the field.
 
-  Jendrik Illner, a 3D programmer at Ubisoft, shares weekly summaries of articles about 3D graphics, including shader tutorials, real-time rendering papers, and more. This blog is a valuable resource for keeping up-to-date with the latest developments in the field.
+* [Alan Wolfe's blog](https://blog.demofox.org/). Alan Wolfe's blog is a comprehensive resource covering a wide range of topics related to math, programming, computer graphics, and more. With posts grouped into various categories, the blog offers insights into original research, inventions, programming techniques, game development, machine learning, and other technical subjects.
 
-* [Alan Wolfe's blog](https://blog.demofox.org/)
+* [Inigo Quilez's site](https://iquilezles.org/). This site features articles and shader demos from the co-creator of ShaderToy, Inigo Quilez. It's a valuable resource for learning about shaders and experimenting with various techniques.
 
-  Alan Wolfe's blog is a comprehensive resource covering a wide range of topics related to math, programming, computer graphics, and more. With posts grouped into various categories, the blog offers insights into original research, inventions, programming techniques, game development, machine learning, and other technical subjects.
-
-* [Inigo Quilez's site](https://iquilezles.org/)
-
-  This site features articles and shader demos from the co-creator of ShaderToy, Inigo Quilez. It's a valuable resource for learning about shaders and experimenting with various techniques.
-
-* [Ray Tracey's blog](http://raytracey.blogspot.com/)
-
-  Sam Lapere shares numerous posts about real-time rendering on his blog. It's an excellent resource for those looking to stay informed about the latest advancements in real-time rendering techniques.
+* [Ray Tracey's blog](http://raytracey.blogspot.com/). Sam Lapere shares numerous posts about real-time rendering on his blog. It's an excellent resource for those looking to stay informed about the latest advancements in real-time rendering techniques.
 
 ## Awesome lists
 
