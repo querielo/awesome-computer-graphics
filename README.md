@@ -56,7 +56,7 @@ If you're looking to dive deeper into computer graphics, these books are great r
 
 * [The Interactive Shader Format (ISF) Editor](https://editor.isf.video/) is an online tool for creating and editing GLSL shaders in the ISF format, which is commonly used in VJ software, live performance applications, and interactive installations.
 
-* (Shader Park)[https://shaderpark.com/] is an interactive web-based platform that enables users to create, explore, and share 3D shaders using a JavaScript library or directly using GLSL. The site offers a GLSL editor, providing boilerplate raymarching code for rendering Signed Distance Field (SDF) shapes, while still allowing users to implement their own. The platform's focus is on the JavaScript library, and the GLSL API is not extensively documented. Users can create and color SDFs using functions like surfaceDistance and shade, or implement custom raymarchers. The Shader Park community is encouraged to contribute to the documentation and examples through its GitHub repository.
+* [Shader Park](https://shaderpark.com/) is an interactive web-based platform that enables users to create, explore, and share 3D shaders using a JavaScript library or directly using GLSL. The site offers a GLSL editor, providing boilerplate raymarching code for rendering Signed Distance Field (SDF) shapes, while still allowing users to implement their own. The platform's focus is on the JavaScript library, and the GLSL API is not extensively documented. Users can create and color SDFs using functions like surfaceDistance and shade, or implement custom raymarchers. The Shader Park community is encouraged to contribute to the documentation and examples through its GitHub repository.
 
 ### Blogs
 
