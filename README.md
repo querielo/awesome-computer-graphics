@@ -43,6 +43,8 @@ If you're looking to dive deeper into computer graphics, these books are great r
 * [Real-Time Rendering recommended books](https://www.realtimerendering.com/books.html). A list of recommended books on the Real-Time Rendering website. This list provides a valuable starting point for anyone looking to expand their knowledge of computer graphics and real-time rendering techniques.
 
 * [Casual effects by Morgan McGuire](https://casual-effects.com/). Morgan McGuire's site is a great resource for those interested in learning about real-time rendering techniques. It provides a wealth of information on various rendering techniques, making it an excellent resource for both beginners and experienced developers looking to improve their skills.
+
+* [Turtletoy](https://turtletoy.net/) is an interactive web-based platform that allows users to create, explore, and share generative art using Turtle Graphics. The website provides a simple JavaScript-based scripting environment for designing 2D graphics, and patterns. Users can browse the gallery to discover and learn from other artists' creations, or experiment with their own designs using the accessible turtle-based programming language.
   
 ### Shader editors
 
@@ -53,6 +55,8 @@ If you're looking to dive deeper into computer graphics, these books are great r
 * [GLSL Sandbox](http://glslsandbox.com) is a shader editor that allows users to write shaders using the GLSL language. It provides real-time previews, editable shader code, and a gallery.
 
 * [The Interactive Shader Format (ISF) Editor](https://editor.isf.video/) is an online tool for creating and editing GLSL shaders in the ISF format, which is commonly used in VJ software, live performance applications, and interactive installations.
+
+* (Shader Park)[https://shaderpark.com/] is an interactive web-based platform that enables users to create, explore, and share 3D shaders using a JavaScript library or directly using GLSL. The site offers a GLSL editor, providing boilerplate raymarching code for rendering Signed Distance Field (SDF) shapes, while still allowing users to implement their own. The platform's focus is on the JavaScript library, and the GLSL API is not extensively documented. Users can create and color SDFs using functions like surfaceDistance and shade, or implement custom raymarchers. The Shader Park community is encouraged to contribute to the documentation and examples through its GitHub repository.
 
 ### Blogs
 
