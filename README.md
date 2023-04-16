@@ -1,4 +1,4 @@
-# Awesome Computer Graphics
+# Awesome Computer Graphics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This is a comprehensive list of resources related to computer graphics, including books, courses, tools, websites, and projects. I try to keep it updated.
 
