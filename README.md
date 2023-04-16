@@ -68,6 +68,16 @@ If you're looking to dive deeper into computer graphics, these books are great r
 
 * [Ray Tracey's blog](http://raytracey.blogspot.com/). Sam Lapere shares numerous posts about real-time rendering on his blog. It's an excellent resource for those looking to stay informed about the latest advancements in real-time rendering techniques.
 
+## Tools
+
+* [RenderDoc](https://renderdoc.org) is a free and open-source graphics debugging tool that allows developers to capture and analyze frames from DirectX, Vulkan, and OpenGL applications. It provides a user-friendly interface to inspect the pipeline state, shader inputs and outputs, textures, and buffers of a captured frame, helping developers to diagnose and fix graphics issues. RenderDoc is widely used in game development and has become an essential tool for graphics programmers.
+
+* [Spector.js](https://spector.babylonjs.comk) is a free and open-source tool for debugging and profiling WebGL applications. It allows developers to capture frames, inspect the WebGL state, and profile the performance of WebGL applications. Spector.js provides an easy-to-use UI that displays the captured frames along with their associated WebGL calls, helping developers to diagnose and fix issues related to WebGL state changes and performance. It can be integrated into any WebGL application and has become a popular tool among web developers who work with WebGL.
+
+* [Xcode](https://developer.apple.com/xcode/) is Apple's integrated development environment for macOS, which includes tools for profiling Metal applications.
+
+* [Intel Graphics Performance Analyzers](https://www.intel.com/content/www/us/en/developer/tools/graphics-performance-analyzers/overview.html) is a suite of tools that allows you to profile graphics performance of different APIs including DirectX, OpenGL, Vulkan.
+
 ## Awesome lists
 
 ### API
