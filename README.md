@@ -100,6 +100,18 @@ If you're looking to dive deeper into computer graphics, these books are great r
 
 * [Awesome Godot](https://github.com/godotengine/awesome-godot)
 
+* [Awesome Cocos](https://github.com/cocos/awesome-cocos)
+
 * [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games)
 
 * [Games](https://github.com/Yaksinikos/games)
+
+#### WebGL
+
+* [Awesome Three.js](https://github.com/0xAxiome/awesome-threejs)
+
+* [Awesome Playcanvas](https://github.com/playcanvas/awesome-playcanvas)
+
+* [Awesome Babylon.js](https://github.com/Symbitic/awesome-babylonjs)
+
+* [Awesome pixi.js](https://github.com/cursedcoder/awesome-pixijs)
