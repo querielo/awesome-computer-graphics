@@ -34,7 +34,7 @@ If you're looking to dive deeper into computer graphics, these books are great r
 
 * [Learn OpenGL](https://learnopengl.com/). A comprehensive resource site that contains tutorials by topic, code examples, and even a PDF version of its contents. It's a great place to start for anyone looking to learn OpenGL 3.3 or higher, as it provides easy-to-follow instructions and practical examples.
 
-* [WebGL Fundamentals](https://webglfundamentals.org/). This resource provides a thorough understanding of WebGL and its underlying principles, ensuring that you grasp the latest techniques and approaches such as 3D rendering, lighting, 2D transformations, 3D perspectives, camera operations, shaders and GLSL, image processing, geometry, textures, and much more. It also provides insights into [WebGL2](webgl2fundamentals.org).
+* [WebGL Fundamentals](https://webglfundamentals.org/). This resource provides a thorough understanding of WebGL and its underlying principles, ensuring that you grasp the latest techniques and approaches such as 3D rendering, lighting, 2D transformations, 3D perspectives, camera operations, shaders and GLSL, image processing, geometry, textures, and much more. There are also [WebGL2 Fundamentals](https://webgl2fundamentals.org/) and [WebGPU Fundamentals](https://webgpufundamentals.org/).
 
 * [OpenGL tutorial](http://www.opengl-tutorial.org/). This tutorial site is dedicated to helping users learn OpenGL 3.3 or higher. It covers a wide range of topics and provides useful resources to help users get started with and master OpenGL.
 
