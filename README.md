@@ -2,7 +2,6 @@
 
 This is a comprehensive list of resources related to computer graphics, including books, courses, tools, websites, and projects. I try to keep it updated.
 
-
 ## Books
 
 If you're looking to dive deeper into computer graphics, these books are great resources to learn from:
@@ -23,6 +22,11 @@ If you're looking to dive deeper into computer graphics, these books are great r
 | Realistic Image Synthesis Using Photon Mapping by Henrik Jensen | Henrik Jensen's book focuses on the fundamentals of realistic image synthesis, such as light transport. It provides a comprehensive overview of global illumination techniques, helping readers understand and apply these concepts to their rendering projects. | [Amazon](https://www.amazon.com/exec/obidos/ASIN/1568811470/o/qid=992896893/sr=2-1/ref=aps) |
 | Realistic Image Synthesis Using Photon Mapping by Henrik Jensen | Henrik Jensen's book focuses on the fundamentals of realistic image synthesis, such as light transport. It provides a comprehensive overview of global illumination techniques, helping readers understand and apply these concepts to their rendering projects. | [Amazon](https://www.amazon.com/exec/obidos/ASIN/1568811470/o/qid=992896893/sr=2-1/ref=aps) |
 
+## Courses
+
+| Course | Description | Link |
+| --- | --- | --- |
+| Introduction to Computer Graphics by Cem Yuksel and Jacob Haydel | This project-based course introduces students to the fundamentals of computer graphics, including 2D and 3D graphics and computer animation. Learners are gain familiarity with key algorithms, data structures, and mathematical foundations. The course covers a broad range of topics rather than delving deeply into specific subjects, with further specialization available in other university offerings. The recommended textbook is "Fundamentals of Computer Graphics" by Marschner and Shirley. All lectures are conducted online via video conferencing. | [Youtube](https://www.youtube.com/watch?v=vLSphLtKQ0o&list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh) [Course Site](https://graphics.cs.utah.edu/courses/cs4600/fall2022/) [Author's site](http://www.cemyuksel.com/) |
 
 ## Sites
 
