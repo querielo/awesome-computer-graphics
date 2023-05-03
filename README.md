@@ -87,7 +87,7 @@ If you're looking to dive deeper into computer graphics, these books are great r
 
 ### API
 
-* [Awesome Vulcan](https://github.com/lbke/awesome-vulcan)
+* [Awesome Vulkan](https://github.com/vinjn/awesome-vulkan)
 
 * [Awesome Metal](https://github.com/adamnemecek/awesome-metal)
 
