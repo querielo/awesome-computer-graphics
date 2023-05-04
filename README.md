@@ -57,6 +57,8 @@ If you're looking to dive deeper into computer graphics, these books are great r
 
 * [ShaderFrog](https://shaderfrog.com) is an online shader editor and asset manager that allows users to create, edit, and export shaders for use in Three.js, Unity, and other game engines. It supports visual shader editing and also offers a text-based editor for advanced users.
 
+* [ComputeToys](https://compute.toys/) is an innovative and experimental WebGPU compute shader editor designed to help developers explore the capabilities of the WebGPU API for creating high-performance graphics applications in the browser. Currently, the editor supports only Chrome (version 113 and above) due to the limited support for WebGPU in other browsers. The user-friendly interface and tools available on the site enable developers to gain insights into WebGPU's potential while awaiting broader browser adoption.
+
 * [GLSL Sandbox](http://glslsandbox.com) is a shader editor that allows users to write shaders using the GLSL language. It provides real-time previews, editable shader code, and a gallery.
 
 * [The Interactive Shader Format (ISF) Editor](https://editor.isf.video/) is an online tool for creating and editing GLSL shaders in the ISF format, which is commonly used in VJ software, live performance applications, and interactive installations.
