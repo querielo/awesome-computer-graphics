@@ -59,7 +59,7 @@ If you're looking to dive deeper into computer graphics, these books are great r
 
 * [ComputeToys](https://compute.toys/) is an innovative and experimental WebGPU compute shader editor designed to help developers explore the capabilities of the WebGPU API for creating high-performance graphics applications in the browser. Currently, the editor supports only Chrome (version 113 and above) due to the limited support for WebGPU in other browsers. The user-friendly interface and tools available on the site enable developers to gain insights into WebGPU's potential while awaiting broader browser adoption.
 
-* [Alma](https://www.alma.sh/) is a platform designed to unleash your creativity with generative graphics through an interactive and experimental playground. By composing nodes, you can effortlessly craft WebGL shaders without writing a single line of code.
+* [Alma](https://www.alma.sh/) is a platform designed to unleash your creativity with generative graphics through an interactive and experimental playground. By composing nodes, you can effortlessly craft WebGL shaders without writing a single line of code. [Link to the Github repo.](https://github.com/emilwidlund/alma)
 
 * [GLSL Sandbox](http://glslsandbox.com) is a shader editor that allows users to write shaders using the GLSL language. It provides real-time previews, editable shader code, and a gallery.
 
