@@ -117,7 +117,7 @@ If you're looking to dive deeper into computer graphics, these books are great r
 
 -   [Bart Wronski's blog](https://bartwronski.com/). Bart Wronski shares insights into real-time rendering, post-processing effects, and advanced graphics techniques.
 
--   [Brandon Fogerty's blog](https://brandonfogerty.com/). A blog focused on real-time rendering, shader programming, and game engine development.
+-   [Brandon Fogerty's blog](https://xdpixel.com/about-me/). A blog focused on real-time rendering, shader programming, and game engine development.
 
 -   [GPU Zen Blog](https://gpuzen.blogspot.com/). A blog dedicated to GPU programming and advanced rendering techniques, often featuring excerpts from the GPU Zen book series.
 
