@@ -85,7 +85,7 @@ If you're looking to dive deeper into computer graphics, these books are great r
 
 -   [ShaderToy](https://www.shadertoy.com) is a popular online platform for creating, sharing, and exploring GLSL shaders. It provides a rich set of features, including live coding, real-time previews, and a vast library of user-contributed shaders.
 
--   [ShaderFrog](https://shaderfrog.com) is an online shader editor and asset manager that allows users to create, edit, and export shaders for use in Three.js, Unity, and other game engines. It supports visual shader editing and also offers a text-based editor for advanced users.
+-   [ShaderFrog](https://shaderfrog.com/2/) is an online shader editor and asset manager that allows users to create, edit, and export shaders for use in Three.js, Unity, and other game engines. It supports visual shader editing and also offers a text-based editor for advanced users.
 
 -   [ComputeToys](https://compute.toys/) is an innovative and experimental WebGPU compute shader editor designed to help developers explore the capabilities of the WebGPU API for creating high-performance graphics applications in the browser. Currently, the editor supports only Chrome (version 113 and above) due to the limited support for WebGPU in other browsers. The user-friendly interface and tools available on the site enable developers to gain insights into WebGPU's potential while awaiting broader browser adoption.
 
