@@ -81,6 +81,8 @@ If you're looking to dive deeper into computer graphics, these books are great r
 
 -   [Turtletoy](https://turtletoy.net/) is an interactive web-based platform that allows users to create, explore, and share generative art using Turtle Graphics. The website provides a simple JavaScript-based scripting environment for designing 2D graphics, and patterns. Users can browse the gallery to discover and learn from other artists' creations, or experiment with their own designs using the accessible turtle-based programming language.
 
+-   [Caustify](https://j4zz.eu/caustify/) is a real-time browser path tracer (WebGL2, TypeScript + GLSL) that traces individual light wavelengths through glass with a Cauchy dispersion model instead of the usual three RGB channels, so a beam through a prism splits into a continuous spectrum and faceted gemstones show per-facet dispersion. Four interactive scenes let you tune the light source, glass IOR/dispersion, tone mapping, and display color space live, with a CIE 1931 chromaticity plot for the clicked pixel. Runs entirely client-side, no install; [source](https://github.com/immineal/caustify) is MIT licensed.
+
 ### Shader editors
 
 -   [ShaderToy](https://www.shadertoy.com) is a popular online platform for creating, sharing, and exploring GLSL shaders. It provides a rich set of features, including live coding, real-time previews, and a vast library of user-contributed shaders.
